@@ -1,4 +1,9 @@
-<h1>🗂️ Organizador de la Carpeta "Descargas" en Python</h1>
+<h1>🧊 Organizador de la Carpeta "Descargas" en Python</h1>
+
+<!-- Portada / Imagen -->
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2014/04/03/10/34/rubiks-cube-310913_1280.png" alt="Rubik's Cube" width="300">
+</p>
 
 <p>
   Este script en <strong>Python</strong> organiza automáticamente los archivos de la carpeta <code>Descargas</code> del usuario, clasificándolos en subcarpetas según su tipo. Es una herramienta útil para mantener el directorio limpio, ordenado y facilitar la localización de archivos.
@@ -30,21 +35,4 @@
 <h2>✅ Características</h2>
 <ul>
   <li>Automatiza la organización de archivos en <code>Descargas</code>.</li>
-  <li>Compatible con Windows, macOS y Linux.</li>
-  <li>Fácil de modificar para adaptarse a nuevas extensiones.</li>
-  <li>No elimina archivos, solo los mueve a carpetas temáticas.</li>
-</ul>
-
-<h2>🚀 Ejecución</h2>
-<p>
-  Solo necesitas ejecutar el script desde tu terminal o editor de código preferido:
-</p>
-<pre><code>python organizar_descargas.py</code></pre>
-
-<h2>🛠 Tecnologías utilizadas</h2>
-<ul>
-  <li><code>os</code>: para navegación y gestión del sistema de archivos.</li>
-  <li><code>shutil</code>: para mover archivos entre carpetas.</li>
-</ul>
-
-<h2>📁 Estructura esperada después de organizar</h2
+  <li
