@@ -35,4 +35,36 @@
 <h2>✅ Características</h2>
 <ul>
   <li>Automatiza la organización de archivos en <code>Descargas</code>.</li>
-  <li
+  <li>Compatible con Windows, macOS y Linux.</li>
+  <li>Fácil de modificar para adaptarse a nuevas extensiones.</li>
+  <li>No elimina archivos, solo los mueve a carpetas temáticas.</li>
+</ul>
+
+<h2>🚀 Ejecución</h2>
+<p>
+  Solo necesitas ejecutar el script desde tu terminal o editor de código preferido:
+</p>
+<pre><code>python organizar_descargas.py</code></pre>
+
+<h2>🛠 Tecnologías utilizadas</h2>
+<ul>
+  <li><code>os</code>: para navegación y gestión del sistema de archivos.</li>
+  <li><code>shutil</code>: para mover archivos entre carpetas.</li>
+</ul>
+
+<h2>📁 Estructura esperada después de organizar</h2>
+<pre><code>
+Descargas/
+│
+├── Documentos/
+├── Imágenes/
+├── Vídeos/
+├── Programas/
+├── Comprimidos/
+└── Otros/
+</code></pre>
+
+<h2>📌 Nota</h2>
+<p>
+  Este script está diseñado como una solución sencilla y personalizable. Puedes ampliarlo fácilmente para incluir nuevas categorías o integrarlo con tareas programadas para ejecutarlo automáticamente cada cierto tiempo.
+</p>
